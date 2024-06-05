@@ -1,0 +1,15 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "\"witing a personal message\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"zoha Nafees\"",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
